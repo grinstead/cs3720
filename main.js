@@ -2,7 +2,7 @@ import './style.css'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    Goodbye, World!
+    Goodbye, Paul!
   </div>
 `
 
