@@ -1,5 +1,6 @@
-# cs3720
-A demo project to show GitHub and git
+# QR Code Generator example for CPSC 3720
 
-[A draft README.md](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) <------Click here
+![Merging with others code](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+
 
